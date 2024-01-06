@@ -1,0 +1,55 @@
+body{
+    color: black;
+}
+h1{
+    background-color: rgb(180, 175, 175);
+}
+p{
+    margin: 0;
+
+}
+#p8{
+    background-color: #008000;
+}
+#p{
+    background-color: #3d3dfd;
+}
+#p2{
+    background-color: #4e4efd;
+}
+#p3{
+    background-color: #5e5efc;
+}
+#p4{
+    background-color: #6e6ef8;
+}
+#p5{
+    background-color: #8181f7;
+}
+#p6{
+    background-color: #8f8ffa;
+}
+#p7{
+    background-color: #a7a7ff;
+}
+#paragraph1{
+    background-color: #ff3355;
+}
+#paragraph7{
+    background-color: #ff4564;
+}
+#paragraph2{
+    background-color: #ff5d78;
+}
+#paragraph3{
+    background-color: #ff6b84;
+}
+#paragraph4{
+    background-color: #fc7a8f;
+}
+#paragraph5{
+    background-color: #f88e9f;
+}
+#paragraph6{
+    background-color: #ffb5c1;
+}
